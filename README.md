@@ -26,7 +26,7 @@ Programs are intentionally lightweight and easy to follow
 
 Designed to be beginner-friendly while reinforcing best practices
 
-🎯 Objective
+## 🎯 Objective
 
 The purpose of this repository is to:
 
@@ -38,12 +38,12 @@ Serve as a personal portfolio of Python practice
 
 Help other learners understand Python through simple examples
 
-# ▶️ How to Run
+## ▶️ How to Run
 
 Clone the repository and execute any script using:
 
 python filename.py
 
-# 🤝 Feedback and Collaboration
+## 🤝 Feedback and Collaboration
 
 Suggestions, improvements, and constructive feedback are always welcome. Feel free to fork the repository or open an issue.
